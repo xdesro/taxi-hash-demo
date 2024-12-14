@@ -1,6 +1,6 @@
 # Steps To Reproduce
 
-> [!BTW]  
+> [!Note]  
 > Thanks for taking a look at this, especially near the holidays. I know this is a scrappy little repo and PR and you probably do this work for free — just want to say I really appreciate it.
 
 As a user:
